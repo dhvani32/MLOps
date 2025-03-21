@@ -59,9 +59,3 @@ The following packages are included in `requirements.txt`:
 - `pandas==2.2.2`  
 - `scikit-learn==1.5.1`  
 
-## Notes
-- `.DS_Store` is a macOS system file and should ideally be added to `.gitignore` to prevent it from being committed.
-- Additional folders for notebooks, scripts, and datasets can be added as needed.
-
-## Contributing
-Feel free to fork the repository, submit issues, or create pull requests.
