@@ -9,15 +9,15 @@ mlops-course/
 │── mlops/             # Main project folder
 │── models/            # Folder for storing trained models
 │── requirements.txt   # Dependencies for the project
-│── README.md          # Project documentation
-│── .DS_Store          # (This file should ideally be removed and added to .gitignore)
+│── README.md          # Documentation
+│── .DS_Store          
 ```
 
 ## Setup Instructions
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository_url>
+git clone https://github.com/dhvani32/MLOps
 cd mlops-course
 ```
 
