@@ -1,0 +1,15 @@
+Start Time,Duration,Run ID,Name,Source Type,Source Name,User,Status,best_C,best_max_depth,best_n_estimators,model,accuracy,final_accuracy
+2025-03-24 22:01,1.1s,b87cf807536a40d2ab6754a2cc5797e8,whimsical-wren-855,LOCAL,/Users/dhvanipatel/Desktop/MLOps/mlops/lib/python3.12/site-packages/ipykernel_launcher.py,dhvanipatel,FINISHED,1,,,Logistic Regression,1,
+2025-03-24 22:01,1.5s,679bf987046343148f4cbdd167703692,calm-mare-778,LOCAL,/Users/dhvanipatel/Desktop/MLOps/mlops/lib/python3.12/site-packages/ipykernel_launcher.py,dhvanipatel,FINISHED,1,,,Logistic Regression,1,
+2025-03-24 22:01,1.5s,f01cd8dc0abb4039a8b00d792d80c8d8,amazing-shrimp-511,LOCAL,/Users/dhvanipatel/Desktop/MLOps/mlops/lib/python3.12/site-packages/ipykernel_launcher.py,dhvanipatel,FINISHED,1,,,Logistic Regression,1,
+2025-03-24 22:00,1.8s,91578281394f482085ac3da9898b5c17,mercurial-sow-813,LOCAL,/Users/dhvanipatel/Desktop/MLOps/mlops/lib/python3.12/site-packages/ipykernel_launcher.py,dhvanipatel,FINISHED,,3,50,Random Forest,1,
+2025-03-24 21:59,1.0s,d53ee27ada364e0883b07776dd4266dd,mysterious-cod-389,LOCAL,/Users/dhvanipatel/Desktop/MLOps/mlops/lib/python3.12/site-packages/ipykernel_launcher.py,dhvanipatel,FINISHED,,,,Best Random Forest,,1
+2025-03-24 21:59,1.2s,4fab7b4d00c243b381abb9da472b28ad,welcoming-sloth-541,LOCAL,/Users/dhvanipatel/Desktop/MLOps/mlops/lib/python3.12/site-packages/ipykernel_launcher.py,dhvanipatel,FINISHED,,5,200,Random Forest,1,
+2025-03-24 21:59,1.6s,589175a23bb54ec88285f72c6e204cd7,marvelous-fish-520,LOCAL,/Users/dhvanipatel/Desktop/MLOps/mlops/lib/python3.12/site-packages/ipykernel_launcher.py,dhvanipatel,FINISHED,1,,,Logistic Regression,1,
+2025-03-24 21:51,1.6s,0a4e89f785694f7cbb548ccdf90c9954,nosy-goose-320,LOCAL,/Users/dhvanipatel/Desktop/MLOps/mlops/lib/python3.12/site-packages/ipykernel_launcher.py,dhvanipatel,FINISHED,,2,,Decision Tree,0.9666666666666667,
+2025-03-24 21:50,1.5s,e3e59f090d53435a8c5cdfad42f5d864,orderly-swan-587,LOCAL,/Users/dhvanipatel/Desktop/MLOps/mlops/lib/python3.12/site-packages/ipykernel_launcher.py,dhvanipatel,FINISHED,,None,,Decision Tree,1,
+2025-03-24 21:49,1.6s,7a263c7abd0e4713bbfad6b15740c51c,hilarious-hare-120,LOCAL,/Users/dhvanipatel/Desktop/MLOps/mlops/lib/python3.12/site-packages/ipykernel_launcher.py,dhvanipatel,FINISHED,,None,,Decision Tree,1,
+2025-03-24 21:48,1.2s,82cef7123e5b42ccba711b35caf555a3,caring-cow-889,LOCAL,/Users/dhvanipatel/Desktop/MLOps/mlops/lib/python3.12/site-packages/ipykernel_launcher.py,dhvanipatel,FINISHED,,,,Best Random Forest,,1
+2025-03-24 21:48,1.1s,e4985e83d2d7491e94e5b28a04ab2157,learned-hog-119,LOCAL,/Users/dhvanipatel/Desktop/MLOps/mlops/lib/python3.12/site-packages/ipykernel_launcher.py,dhvanipatel,FINISHED,,None,100,Random Forest,1,
+2025-03-24 21:47,1.5s,7728dfdc8dfa4cc9a8794e3b6bf51866,likeable-skunk-249,LOCAL,/Users/dhvanipatel/Desktop/MLOps/mlops/lib/python3.12/site-packages/ipykernel_launcher.py,dhvanipatel,FINISHED,,7,,Decision Tree,1,
+2025-03-24 21:47,1.5s,1a4a69948ef646e9a35d2d2796b787a7,sophisticated-koi-96,LOCAL,/Users/dhvanipatel/Desktop/MLOps/mlops/lib/python3.12/site-packages/ipykernel_launcher.py,dhvanipatel,FINISHED,1,,,Logistic Regression,1,
